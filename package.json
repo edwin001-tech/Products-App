@@ -1,0 +1,17 @@
+{
+  "name": "crude_api",
+  "version": "1.0.0",
+  "description": " Restful CRUD API with Node.js MongoDB and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edwin shitakwa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mongoose": "^5.9.9"
+  }
+}
